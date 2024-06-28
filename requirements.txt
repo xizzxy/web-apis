@@ -1,0 +1,15 @@
+# Core requirements
+click
+jinja2
+requests
+pyyaml
+typesystem>=0.2.0
+
+# Testing requirements
+black
+codecov
+flake8
+isort
+pytest
+pytest-cov
+starlette

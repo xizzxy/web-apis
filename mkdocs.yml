@@ -1,0 +1,12 @@
+site_name: API Star
+theme:
+    name: null
+    custom_dir: 'docs-theme'
+pages:
+    - Home: index.md
+    - Tools:
+        - Schema Validation: schema-validation.md
+        - API Documentation: api-documentation.md
+        - Making API Requests: making-api-requests.md
+    - Client Library: client-library.md
+    - Type System: type-system.md
